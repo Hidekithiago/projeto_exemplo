@@ -1,0 +1,2 @@
+# Lista de dependências do projeto
+# Utilizado para instalar as bibliotecas necessárias
